@@ -8,3 +8,9 @@ build project
 and run
 
     docker-compose -f local.yml run
+
+debugin
+
+    docker-compose -f local.yml ps
+    docker rm -f {{cookiecutter.project_slug}}_django_1
+    docker-compose -f local.yml run --rm --service-ports django
