@@ -8,7 +8,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/ArnoldoRicardo/api_cookiecutter
+    cookiecutter https://github.com/ArnoldoRicardo/django_api_cookiecutter
 
 Then:
 
