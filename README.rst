@@ -19,3 +19,13 @@ build project
 and run
 
     docker-compose -f local.yml run
+
+tools
+-------------
+- docker
+- django
+- django rest framework
+- celery
+- flower
+- rabit HQ
+- postgrest
